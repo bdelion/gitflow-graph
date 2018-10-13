@@ -1,4 +1,4 @@
-# gitflow-graph v0.0.2
+# gitflow-graph v0.1.0
 Projet permettant de générer des graphiques des flow git
 
 ## ressources
@@ -15,7 +15,9 @@ Projet permettant de générer des graphiques des flow git
 > 3ème commit
 ###### Hotfix 001
 > 1er commit
-###### Feature 002
+#### Feature 002
 > 1er commit  
 > 2eme commit  
 > 3eme commit
+###### Feature 002 - BugFix
+> 1er commit
