@@ -8,8 +8,8 @@ Projet permettant de générer des graphiques des flow git
 
 #### Feature 001
 > 1er commit  
-> 2ème commit  
-> 3ème commit  
+> 2eme commit  
+> 3eme commit  
 ###### Feature 001 - BugFix
 > 2ème commit
 > 3ème commit
@@ -20,4 +20,8 @@ Projet permettant de générer des graphiques des flow git
 > 2eme commit  
 > 3eme commit
 ###### Feature 002 - BugFix
-> 1er commit
+> 1er commit  
+#### Feature 003
+> 1er commit  
+> 2eme commit  
+> 3eme commit  
