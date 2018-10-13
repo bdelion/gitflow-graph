@@ -7,6 +7,6 @@ Projet permettant de générer des graphiques des flow git
 - [Générateur de graph à partir d'une dépôt Github](http://beta.gitflowchart.com/ "Générateur de graph à partir d'une dépôt Github")
 
 ###### Feature 001
-> 1er commit
+> 1er commit  
 > 2ème commit
 > 3ème commit
