@@ -1,4 +1,4 @@
-# gitflow-graph v0.2.0
+# gitflow-graph v1.0.0
 Projet permettant de générer des graphiques des flow git
 
 ## ressources
@@ -26,4 +26,12 @@ Projet permettant de générer des graphiques des flow git
 > 2eme commit  
 > 3eme commit  
 ###### Feature 003 - BugFix
+> 1er commit  
+#### Feature 004
+> Montée de version supérieur  
+> 2eme commit
+#### Feature 005
+> 1er commit  
+> mermaid pas dispo 
+###### Feature 005 - BugFix
 > 1er commit  
