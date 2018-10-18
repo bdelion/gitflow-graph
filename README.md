@@ -32,7 +32,7 @@ Projet permettant de générer des graphiques des flow git
 > 2eme commit
 #### Feature 005
 > 1er commit  
-    ```mermaid
+```mermaid
     sequenceDiagram
       participant Alice
       participant Bob
@@ -44,4 +44,4 @@ Projet permettant de générer des graphiques des flow git
       John-->Alice: Great!
       John->Bob: How about you?
       Bob-->John: Jolly good!
-    ```
+```
