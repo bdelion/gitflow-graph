@@ -27,3 +27,5 @@ Projet permettant de générer des graphiques des flow git
 > 3eme commit  
 ###### Feature 003 - BugFix
 > 1er commit  
+###### Hotfix 002
+> 1er commit  
