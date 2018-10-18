@@ -33,3 +33,5 @@ Projet permettant de générer des graphiques des flow git
 #### Feature 005
 > 1er commit  
 > mermaid pas dispo 
+###### Feature 005 - BugFix
+> 1er commit  
