@@ -28,4 +28,5 @@ Projet permettant de générer des graphiques des flow git
 ###### Feature 003 - BugFix
 > 1er commit  
 ###### Feature 004
-> Montée de version supérieur
+> Montée de version supérieur  
+> 2eme commit
